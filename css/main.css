@@ -2,8 +2,6 @@ body {
     margin: 60px auto;
     width: 70%;
     color: #999999;
-}
-.bg {
     background-image: url(../images/grey-screen-background.jpg);
     height: 100%;
     background-position: center;
