@@ -9,7 +9,7 @@ body {
     background-size: cover;*/
 }
 nav, footer{
-    background-color: rgb(38, 143, 251);
+    background-color: #aeaca8;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
