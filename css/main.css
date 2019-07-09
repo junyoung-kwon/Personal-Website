@@ -14,7 +14,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     background-color: rgb(38, 143, 251)
-    background-color: hsl(210, 85%, 57%)
+    /*background-color: hsl(210, 85%, 57%)*/
 }
 nav ul li, footer ul li {
     display: inline;
