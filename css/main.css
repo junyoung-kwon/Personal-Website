@@ -34,7 +34,7 @@ h1 {
 p {
     font-size: 1em;
     line-height: 1.4em;
-    /*background-color: rgb(185, 179, 175);*/
+    background-color: rgb(185, 179, 175);
     color: #333;
 }
 footer {
