@@ -1,4 +1,1 @@
-# junyoung-kwon.github.io
-Welcome to my Website Repo
-
-Testing...
+<a href="https://github.com/junyoung-kwon" target="_blank">junyoung-kwon.github.io</a>
