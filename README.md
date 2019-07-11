@@ -1,3 +1,3 @@
 <p><b>Link to my site: <b/></p>
 
-<a href="https://junyoung-kwon.github.io/" target="_blank">Junyoung's Webiste</a>
+<a target="_blank" href="https://junyoung-kwon.github.io/">Junyoung's Webiste</a>
